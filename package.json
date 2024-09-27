@@ -1,0 +1,7 @@
+{
+	"name": "types-react-test",
+	"version": "0.1.0",
+	"devDependencies": {
+		"@types/react": "18.3.9"
+	}
+}
