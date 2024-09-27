@@ -1,5 +1,5 @@
 {
-	"name": "types-react-test",
+	"name": "types-react-bug",
 	"version": "0.1.0",
 	"devDependencies": {
 		"@types/react": "18.3.9"
